@@ -8,3 +8,17 @@ Syntax
 git clone <repo_link> <location> -b <branch_name>
 
 git clone https://github.com/anildalar/gyanodaya6.git . -b master
+
+
+
+master -> master
+
+CollorZila
+
+#ffffff = White
+#fff =    White
+
+#000000 = Black
+#000    = Black
+
+https://www.w3schools.com/html/html_lists.asp
