@@ -1,0 +1,10 @@
+How to download the code/repo from github.com
+
+. = current directory
+
+-b = branch name
+
+Syntax
+git clone <repo_link> <location> -b <branch_name>
+
+git clone https://github.com/anildalar/gyanodaya6.git . -b master
