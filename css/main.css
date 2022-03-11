@@ -1,20 +1,20 @@
 header{
     height:72px;
-    border:1px dashed red;
 }
 main{
     min-height: 1500px;
     margin-top: 72px;
-    border:1px dashed green;
 }
 footer{
     height:505px;
-    border:1px dashed blue;
 }
-.a_tbdr{
-    border:1px dashed #000;
+.a_tbdr{/* 
+  border:1px dashed #000; */
 }
-
+.a_header_form input:focus{
+    border-bottom: 5px solid yellow;
+    box-shadow: none;
+}
 @media (min-width: 1200px){
     .container, .container-lg, .container-md, .container-sm, .container-xl {
         max-width: 1018px;
